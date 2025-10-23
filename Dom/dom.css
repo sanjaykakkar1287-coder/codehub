@@ -1,0 +1,338 @@
+body{
+   background-image:  linear-gradient(to top left, #753682 0%, #bf2e34 100%);
+   
+  
+}
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    width: 100vw;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+.main1{
+    width:50vw;
+    height: 600px;
+    background-color: white;   
+  
+   display: flex;
+   border-radius: 10px;
+
+
+   
+  
+}
+.main1>div{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+ flex-direction: column;
+ 
+    align-items: center;
+    font-size: 30px;
+    font-weight: bold;
+   
+}
+.box
+{
+    width:300px;
+    height:200px;        
+    border:2px solid black;
+    border-radius: 10px;
+    background-color: red;
+    text-align: center;
+    color:white;
+    
+}
+.box1{
+    background-color: lightgoldenrodyellow;
+}
+.box2{
+    background-color: lightgray;
+}
+.newg{
+    background-color: lightskyblue;
+    position: absolute;
+    margin-left: 370px;
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 5px;
+}
+.newg1{
+    background-color: lightskyblue;
+    position: absolute;
+    margin-left: 430px;
+    margin-bottom: 150px;
+    padding: 20px;
+    border-radius: 5px;
+    align-self: end;
+}
+.newg2{
+    background-color: lightskyblue;
+    position: absolute;
+    margin-left: 370px;
+   
+    padding: 20px;
+    border-radius: 5px;
+    align-self: end;
+    margin-bottom: 400px;
+}
+img{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    align-self: center;
+    margin-left: 420px;
+    margin-bottom: 80px;
+}
+.hid{
+    display:none;
+  }
+  .active{
+    background-color: lightblue;
+  }
+  
+  
+    
+  
+  .head{
+    font-size: 150px;
+    text-align: center;
+    color:yellowgreen;
+    justify-content: center;
+    align-items: center;
+   
+    
+  }
+ .slide-out {
+  opacity: 0;
+  transform: translateY(-30px);
+}
+.slide-in {
+  opacity: 1;
+  transform: translateY(0);
+}
+.hide{
+  transition: all 0.6s ease-in-out;
+}
+
+.wi{
+  display: none;
+ }
+
+.hh{
+  display:none;
+  
+
+}
+.mai 
+{
+  display: none;
+}
+.cs{
+  background-color: black;
+/* position: absolute; */
+display: flex;
+padding: 20px;
+border-radius: 5px;
+margin-bottom: 400px;
+margin-left: 900px;
+font-size: 15px;
+color:white;
+
+}
+.cs:hover{
+  color:black;
+  background-color: white;
+  transform: scale(0.9);
+}
+.start
+{
+  display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
